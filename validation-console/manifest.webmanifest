@@ -1,0 +1,11 @@
+{
+  "name": "لوحة تجربة شو نطبخ اليوم؟",
+  "short_name": "شو نطبخ؟",
+  "description": "لوحة إدارة تجربة اختيار الوجبات اليدوية",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fffaf4",
+  "theme_color": "#7c2d12"
+}

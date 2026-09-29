@@ -1,0 +1,5 @@
+# ملفات التجربة التي ينزلها المتصفح وتحتوي نتائج المشاركات
+v00-backup-*.json
+v00-sessions-*.csv
+validation-console/v00-backup-*.json
+validation-console/v00-sessions-*.csv
